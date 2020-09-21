@@ -15,6 +15,7 @@ namespace RectangleServices
 {
     public class Startup
     {
+
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
